@@ -7,4 +7,4 @@
 
 As you can already know my name, I am going through this. Currently, I am studing at "United International University" in the department of Computer Science and Engeneering. On my university and also outside from my university, what I have learned, all those things are categorised in the repositories. I have completed some projects. But personally I love to solve problems, love to learn the different way of solving problems. Thank you :smile:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloyKumarKundu)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloyKumarKundu)]()
