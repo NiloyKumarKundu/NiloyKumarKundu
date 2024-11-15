@@ -10,4 +10,4 @@ Hello, I'm Niloy Kumar Kundu, an AI enthusiast and researcher. I graduated from 
 
 ![Niloy Kumar Kundu's github stats](https://github-readme-stats.vercel.app/api?username=niloykumarkundu&show_icons=true&theme=gotham) 
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloykumarkundu&layout=compact&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
