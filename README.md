@@ -1,7 +1,6 @@
 ### Niloy
 > Junior Machine Learning Engineer at [Nodes Digital Limited](https://nodesdigitalbd.com/) <br>
-> Instructor at [UIU App Forum](https://appf.uiu.ac.bd/) <br/>
-> Problem Solver!
+> AI Researcher
 
 [![LinkedIn Connect](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/niloykk)    [![Facebook Follow](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NiloyKK)
 
