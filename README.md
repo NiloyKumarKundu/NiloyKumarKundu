@@ -9,6 +9,6 @@
 - 📫 How to reach me **niloykk.connect@gmail.com**
 - 🧑‍💻 If GPT can write my code, then who is debugging it? Oh, right, **still me** 🤡🔧💀
 
-![Niloy Kumar Kundu's github stats](https://github-readme-stats.vercel.app/api?username=niloykumarkundu&show_icons=true&theme=gotham)
+![Niloy Kumar Kundu's github stats](https://github-readme-stats.vercel.app/api?username=NiloyKumarKundu&show_icons=true&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyKumarKundu&layout=donut&theme=gotham)](https://github.com/NiloyKumarKundu/github-readme-stats)
