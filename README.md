@@ -10,7 +10,7 @@
   Connect
 </a>
 
-[![LinkedIn – Connect](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?logoWidth=20)](https://www.linkedin.com/in/niloykk)    [![Facebook Follow](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NiloyKK)
+[![LinkedIn – Connect](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?logoWidth=20&logoHeight=20)](https://www.linkedin.com/in/niloykk)    [![Facebook Follow](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NiloyKK)
 
 - 📫 How to reach me **niloykk.connect@gmail.com**
 - 🧑‍💻 If GPT can write my code, then who is debugging it? Oh, right, **still me** 🤡🔧💀
