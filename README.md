@@ -4,13 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiloyKumarKundu&label=Profile%20views&color=0e75b6&style=flat" alt="NiloyKumarKundu" /> </p>
 
 
-<a href="https://www.linkedin.com/in/yourusername/" style="display:inline-block;background:#0A66C2;color:white;padding:5px 10px;border-radius:4px;text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
-       alt="LinkedIn" style="height:18px;vertical-align:middle;margin-right:4px;">
-  Connect
-</a>
-
-[![LinkedIn – Connect](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?logoWidth=20&logoHeight=20)](https://www.linkedin.com/in/niloykk)    [![Facebook Follow](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NiloyKK)
+[![LinkedIn – Connect](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/niloykk)    [![Facebook Follow](http://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NiloyKK)
 
 - 📫 How to reach me **niloykk.connect@gmail.com**
 - 🧑‍💻 If GPT can write my code, then who is debugging it? Oh, right, **still me** 🤡🔧💀
