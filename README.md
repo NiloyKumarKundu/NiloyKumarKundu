@@ -1,121 +1,153 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NiloyKumarKundu&label=Profile%20views&color=0e75b6&style=flat" alt="NiloyKumarKundu" /> </p>
-
 <div align="center">
 
 # Niloy Kumar Kundu
-### Machine Learning Engineer · LLM Agents · MCP Servers · Production AI Systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://niloykumarkundu.github.io/)
+### AI Software Engineer · LLM Agents · MCP Servers · RAG · Python Backend
+
+MEng Software Engineering (Co-op) student at **Ontario Tech University** · Oshawa, ON, Canada
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://niloykumarkundu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloykk/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloykk.connect@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiloyKumarKundu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloykk.connect@gmail.com)
+
+**Open to a 4-month co-op term: January – April 2027 (Winter 2027)**
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I build **production-grade AI systems** — from autonomous LLM agents to scalable MCP server architectures. Currently working as a **Machine Learning Engineer at Pivotly (Remote, MN, USA)**, designing intelligent agents that reason over structured databases, vector embeddings, and cloud storage at scale.
+I design, build, and test **AI-enabled software**: LLM agents, agentic workflows, Model Context Protocol (MCP) tool servers, RAG pipelines, and the Python backend services and REST APIs behind them. I have 2.5+ years of professional experience shipping this work, plus 4 research publications in machine learning.
 
-- 🔭 &nbsp;Currently building: **Custom MCP Servers + LangGraph-based Human-in-the-Loop AI Agents**
-- 🌍 &nbsp;Working with: **Azure AI Studio, Azure Document Intelligence, Azure AI Vision**
-- 📄 &nbsp;Published research in **IEEE** and **Computers and Electronics in Agriculture** (Elsevier)
-- 🎓 &nbsp;B.Sc in CSE, Major in Data Science — **CGPA: 3.87/4.00**
-- 🤝 &nbsp;**Open to collaboration** on AI Agents, MCP integrations, and LLM-powered systems
+I work with AI coding assistants (Claude Code, Cursor), and I review, debug, and test the code they generate before integrating it.
+
+- 🎓 &nbsp;**MEng, Software Engineering (Co-op)** at Ontario Tech University (Sep 2026 – present)
+- 🎓 &nbsp;**B.Sc. in Computer Science & Engineering** (Major in Data Science) at United International University, **CGPA 3.87/4.00**
+- 📄 &nbsp;Published in **Computers and Electronics in Agriculture** (Elsevier), **IEEE ICCIT**, and **IEEE I2CT**
+- 🤝 &nbsp;Interested in AI agents, developer tooling, engineering automation, and LLM-powered products
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **AI/ML Engineer** (Remote) | Pivotly · Stillwater, MN, USA | Nov 2025 – Oct 2026 |
+| **Machine Learning Engineer** | Silicon Orchard Limited · Dhaka, Bangladesh | May 2025 – Oct 2025 |
+| **Junior Machine Learning Engineer** | Nodes Digital Limited · Dhaka, Bangladesh | Dec 2023 – Apr 2025 |
+
+**Highlights**
+- Designed **LangGraph agentic workflows** that orchestrate LLM reasoning, tool calling, and structured database queries in real time.
+- Built **MCP servers and clients** that let LLM agents call external tools, APIs, and data sources.
+- Developed **Python backend services and REST APIs** using PostgreSQL, MySQL, Azure Blob Storage, and vector-embedding retrieval (RAG).
+- Built a **multi-agent conversational AI system** designed for scalability, security, and high availability, and optimized its workflows to reduce token usage and latency.
+- Created an **automated evaluation pipeline** that validates recommender-system reliability and user satisfaction.
+
+---
+
+## Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**AI / LLM**
+**AI & LLM Engineering**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-6B46C1?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0076D6?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_%28FastMCP%29-6B46C1?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-**ML / DL Frameworks**
+**Backend, APIs & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+
+**Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Backend & DevOps**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🤖 [MCP Server From Scratch](https://github.com/NiloyKumarKundu/MCP-Server-From-Scratch)
-Built local and remote **Model Context Protocol (MCP) servers** using FastMCP — includes expense tracking with SQLite, tool orchestration, and production-ready agent integration patterns. Covers both `stdio` and `SSE` transport layers for flexible deployment.
-`FastMCP` `SQLite` `Python` `LLM Agents`
+A hands-on repository for building **Model Context Protocol (MCP) servers** with FastMCP. It includes local and remote server implementations, an expense-tracking server backed by SQLite, and step-by-step notes on MCP development.
 
----
+`Python` `FastMCP` `SQLite` `LLM Agents`
 
-### 🧠 [MLHub.space](https://github.com/NiloyKumarKundu/mlhub.space)
-Locally hosted multi-model LLM platform running **DeepSeek R1, Llama 3.2, Mistral** with Streamlit interface — deployed at [mlhub.space](https://mlhub.space) using Docker + Nginx + RTX 3060 GPU. Reduced latency by **25%**, accelerated deployment by **30%**.
-`Streamlit` `Ollama` `Docker` `Nginx` `Cloudflare`
+### 🧠 [MLHub.space: Multi-Model LLM App](https://github.com/NiloyKumarKundu/mlhub.space)
+A self-hosted LLM app with a Streamlit UI that serves several open models (including distilled DeepSeek-R1, Llama 3.2, SmolLM2, and Mistral) through Ollama and LangChain. It runs with Docker Compose behind an Nginx reverse proxy and Cloudflare on an RTX 3060 server. Optimizing this deployment cut response latency by 25%.
 
----
+`Python` `Streamlit` `Ollama` `LangChain` `Docker` `Nginx`
 
 ### 📊 [DataMind AI](https://github.com/NiloyKumarKundu/DataMind-AI)
-AI-powered Excel analysis app with interactive querying over structured data — containerized and deployed within the mlhub.space network. Supports multi-sheet reasoning and natural language data exploration.
-`Streamlit` `LangChain` `Docker` `Python`
+A Streamlit AI app for analyzing Excel/CSV files interactively in natural language (PandasAI + Groq). It is containerized with Docker and deployed on the same network as MLHub.space.
 
----
+`Python` `Streamlit` `PandasAI` `Groq` `Docker`
 
 ### 💰 [Financial Agentic AI](https://github.com/NiloyKumarKundu/Financial-Agentic-AI)
-Autonomous financial analysis agent with tool-use capabilities — performs real-time stock retrieval, web search, and multi-step reasoning to generate structured investment insights.
-`LangChain` `Agentic AI` `FastAPI` `Python`
+A multi-agent financial research assistant built with Phidata and Groq-hosted LLMs: a finance agent (live stock data via YFinance) and a web-search agent, with structured insights presented in a Streamlit app.
+
+`Python` `Phidata` `Groq` `AI Agents` `Streamlit`
 
 ---
 
-## 📚 Research & Publications
+## Research & Publications
 
 | # | Title | Venue | Year |
 |---|-------|-------|------|
-| J1 | [Accurate water level monitoring in Alternate Wetting and Drying rice cultivation using attention-based ConvNeXt architecture](https://doi.org/10.1016/j.compag.2025.110216) | **Computers & Electronics in Agriculture** (Elsevier) | 2025 |
-| C2 | [Attention-based feature fusion for Monkeypox skin lesion detection](https://doi.org/10.1109/ICCIT60459.2023.10441278) | **IEEE ICCIT** | 2023 |
-| C1 | [Implementing Federated Learning based on RainForest Model](https://doi.org/10.1109/I2CT57861.2023.10126333) | **IEEE I2CT** | 2023 |
-| T1 | [Enhanced speech emotion recognition with efficient channel attention guided deep CNN-BiLSTM framework](https://arxiv.org/pdf/2412.10011) | **arXiv** | 2024 |
+| J1 | [Accurate water level monitoring in Alternate Wetting and Drying rice cultivation using attention-based ConvNeXt architecture](https://doi.org/10.1016/j.compag.2025.110216) | **Computers and Electronics in Agriculture** (Elsevier) | 2025 |
+| T1 | [Enhanced speech emotion recognition with efficient channel attention guided deep CNN–BiLSTM framework](https://arxiv.org/abs/2412.10011) *(first author, undergraduate thesis)* | **arXiv** | 2024 |
+| C2 | [Attention based feature fusion network for Monkeypox skin lesion detection](https://doi.org/10.1109/ICCIT60459.2023.10441278) *(first author)* | **IEEE ICCIT** | 2023 |
+| C1 | [Implementing federated learning based on rainforest model](https://doi.org/10.1109/I2CT57861.2023.10126333) | **IEEE I2CT** | 2023 |
 
 ---
 
-## 📊 GitHub Stats
+## Certifications & Achievements
+
+- Claude Code: A Highly Agentic Coding Assistant
+- [AI Agent Fundamentals (Hugging Face)](https://drive.google.com/file/d/13kDlj91CSWhraLsTlrX-T_NWlpjPV0gB/view?usp=sharing)
+- [Supervised Machine Learning: Regression and Classification (Coursera)](https://www.coursera.org/account/accomplishments/verify/4ZLVCFD3HZ8P)
+- Head of R&D, UIU App Forum · Champion, UIU CSE Project Show 2022 · 5th place, UIU Coders' Combat 3.0
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Niloy's GitHub Stats](https://github-readme-stats-iota-red.vercel.app/api?username=NiloyKumarKundu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
-
+![GitHub Stats](https://github-readme-stats-iota-red.vercel.app/api?username=NiloyKumarKundu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats-iota-red.vercel.app/api/top-langs/?username=NiloyKumarKundu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NiloyKumarKundu&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Building AI systems that don't just work in notebooks — but work in production."*
 
 </div>
