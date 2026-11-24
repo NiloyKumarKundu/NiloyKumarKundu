@@ -115,7 +115,7 @@ A Streamlit AI app for analyzing Excel/CSV files interactively in natural langua
 `Python` `Streamlit` `PandasAI` `Groq` `Docker`
 
 ### 💰 [Financial Agentic AI](https://github.com/NiloyKumarKundu/Financial-Agentic-AI)
-A multi-agent financial research assistant built with Phidata and Groq-hosted LLMs: a finance agent (live stock data via YFinance) and a web-search agent, with structured insights presented in a Streamlit app.
+An LLM financial analyst agent built with Phidata and Groq-hosted LLMs. It calls live Yahoo Finance tools for stock prices, analyst recommendations, fundamentals, and news, and streams structured answers into a Streamlit chat app.
 
 `Python` `Phidata` `Groq` `AI Agents` `Streamlit`
 
