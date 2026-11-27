@@ -105,7 +105,7 @@ A hands-on repository for building **Model Context Protocol (MCP) servers** with
 `Python` `FastMCP` `SQLite` `LLM Agents`
 
 ### 🧠 [MLHub.space: Multi-Model LLM App](https://github.com/NiloyKumarKundu/mlhub.space)
-A self-hosted LLM app with a Streamlit UI that serves several open models (including distilled DeepSeek-R1, Llama 3.2, SmolLM2, and Mistral) through Ollama and LangChain. It runs with Docker Compose behind an Nginx reverse proxy and Cloudflare on an RTX 3060 server. Optimizing this deployment cut response latency by 25%.
+A self-hosted LLM app with a Streamlit UI that serves several open models (including DeepSeek-R1/V3, Llama 3.2, SmolLM2, and Mistral) through Ollama and LangChain. It runs with Docker Compose behind an Nginx reverse proxy and Cloudflare on an RTX 3060 server. Optimizing this deployment cut response latency by 25%.
 
 `Python` `Streamlit` `Ollama` `LangChain` `Docker` `Nginx`
 
